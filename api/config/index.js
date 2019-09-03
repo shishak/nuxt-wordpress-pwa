@@ -1,3 +1,3 @@
 export default {
-  baseUrl: "https://nuxt.craftedup.com/wp-json/wp/v2/"
+  baseUrl: "https://texty.xyz/wp-json/wp/v2/"
 };
